@@ -72,8 +72,6 @@ predicted_salary = predict_salary(years_exp, hours_week, overtime, specializatio
 # Display predicted salary
 st.subheader('Predicted Salary')
 st.write(f'The predicted salary is ${predicted_salary:,.2f}')
-image_path = 'Designer.png'
-st.image(image_path, caption='Salary Predictor', use_column_width=True)
 
 
 
