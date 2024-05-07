@@ -1,0 +1,31 @@
+Years of Experience,Age ,Hours/week,Location,Overtime,Specialization,Job role,Education level,Salary
+1.1,25,41,Bengaluru,No,Cyber Security,Risk analyst,B.TECH,39343
+1.3,26,42,Hyderabad,No,Devlopment,Software Dev,B.TECH,46205
+1.5,24,35,Gurgaon,No,Devlopment,Software Dev,BCA,37731
+2,25,40,Bengaluru,No,Cyber Security,Risk analyst,B.TECH,43525
+2.2,26,32,Bengaluru,No,Devlopment,Software Dev,BCA,39891
+2.9,25,38,Bengaluru,No,Devlopment,Software Dev,B.TECH,56642
+3,28,42,Gurgaon,No,Devlopment,Software Dev,B.TECH,60150
+3.2,26,43,Hyderabad,No,Cyber Security,Risk analyst,B.TECH,54445
+3.2,25,45,Hyderabad,No,Cyber Security,Risk analyst,B.TECH,64445
+3.7,28,44,Hyderabad,No,Devlopment,Software Dev,BCA,57189
+3.9,27,42,Bengaluru,No,Devlopment,Software Dev,BCA,63218
+4,29,43,Gurgaon,No,Cyber Security,Risk analyst,B.TECH,55794
+4,28,41,Gurgaon,No,Devlopment,Software Dev,BCA,56957
+4.1,26,42,Bengaluru,No,Cyber Security,Risk analyst,B.TECH,57081
+4.5,24,45,Bengaluru,No,Cyber Security,Risk analyst,B.TECH,61111
+4.9,26,46,Gurgaon,Yes,Devlopment,Software Dev,B.TECH,67938
+5.1,29,45,Hyderabad,Yes,Cyber Security,Risk analyst,B.TECH,66029
+5.3,27,48,Bengaluru,Yes,Data Science,Data Scientist,B.TECH,83088
+5.9,26,46,Bengaluru,Yes,Data Science,Data Scientist,B.TECH,81363
+6,24,47,Gurgaon,Yes,Data Science,Data Scientist,B.TECH,93940
+6.8,26,45,Gurgaon,Yes,Data Science,Data Scientist,B.TECH,91738
+7.1,25,43,Hyderabad,Yes,Data Science,Data Scientist,B.TECH,98273
+7.9,27,43,Gurgaon,Yes,Data Science,Data Scientist,B.TECH,101302
+8.2,26,46,Bengaluru,Yes,Data Science,Data Scientist,B.TECH,113812
+8.7,24,47,Bengaluru,Yes,Data Science,Data Scientist,B.TECH,109431
+9,28,46,Hyderabad,Yes,Data Science,Data Scientist,B.TECH,105582
+9.5,25,50,Hyderabad,Yes,Data Science,Data Scientist,B.TECH,116969
+9.6,26,50,Gurgaon,Yes,Data Science,Data Scientist,B.TECH,112635
+10.3,26,50,Gurgaon,Yes,Data Science,Data Scientist,B.TECH,122391
+10.5,27,50,,,,,,121872
